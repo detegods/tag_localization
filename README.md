@@ -1,6 +1,6 @@
 # Detego Tag Localization Dataset
 
-This dataset includes CSVs with all read events we collected for the experiments conducted for our paper "Estimating Relative Tag Locations based on Time-Differences in Read Events".
+This dataset includes CSVs with all read events we collected for the experiments conducted for our paper *"Estimating Relative Tag Locations based on Time-Differences in Read Events"*.
 
 Specifically, the dataset contains the following fields:
 
